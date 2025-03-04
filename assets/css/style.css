@@ -1440,7 +1440,7 @@ facebook embed
   align-items: center;
 }
 
-a {
+.actions a {
   display: flex;
   align-items: center;
 	gap: 1ch;
